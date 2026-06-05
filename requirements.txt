@@ -1,0 +1,15 @@
+Flask
+Flask-Cors
+Flask-SQLAlchemy
+Werkzeug
+PyMySQL
+transformers
+torch
+nltk
+spacy
+textblob
+scikit-learn
+pandas
+numpy
+matplotlib
+reportlab
